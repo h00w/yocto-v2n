@@ -1,0 +1,11 @@
+# Copy this content to:
+# C:\Users\<YOUR_USERNAME>\.wslconfig
+#
+# Then restart WSL:
+#   wsl --shutdown
+
+[wsl2]
+memory=24GB
+processors=8
+swap=16GB
+localhostForwarding=true
